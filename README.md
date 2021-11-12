@@ -1,7 +1,7 @@
 # CSS - Flexbox e grid
 
 # 📓 Sobre
-- Projeto desenvolvido conforme proposta do bootcamp ministrado pela Labenu, de uma confeiraria fictícia, para a prática das ferramentas flex e grid do CSS
+- Projeto desenvolvido conforme proposta do bootcamp ministrado pela Labenu, de uma confeitaria fictícia, para a prática das ferramentas flex e grid do CSS
 
 # 🛠 Tecnologias
 - HTML
