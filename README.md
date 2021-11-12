@@ -22,5 +22,5 @@ $ code .
 
 Rode o arquivo index.html com o Live Server
 
-👷 Desenvolvedora:
+# 👷 Desenvolvedora:
 Mônica Araujo
