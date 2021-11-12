@@ -8,7 +8,7 @@
 - CSS
 
 # 💻 Imagens Desktop
-Página inicial;
+- Página inicial:
 ![css-flex-grid](https://user-images.githubusercontent.com/83082558/141523730-ef22daba-182d-48d9-bd82-679c5d017015.png)
 
 # ↩️ Pré-requisitos
