@@ -7,6 +7,10 @@
 - HTML
 - CSS
 
+# 💻 Imagens Desktop
+Página inicial;
+![css-flex-grid](https://user-images.githubusercontent.com/83082558/141523730-ef22daba-182d-48d9-bd82-679c5d017015.png)
+
 # ↩️ Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode
 
